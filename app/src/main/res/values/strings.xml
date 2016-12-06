@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyFrameDemo</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="home">首页</string>
+    <string name="category">分类</string>
+    <string name="fun">乐一乐</string>
+    <string name="shopping">购物车</string>
+    <string name="mycenter">我的</string>
+    <string name="open">点击开启</string>
+</resources>
